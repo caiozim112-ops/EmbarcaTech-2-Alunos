@@ -1,0 +1,3 @@
+/home/caiovitor/Documentos/LeitorTemperatura/adc_console/host_test/CMakeFiles/run_tests.dir
+/home/caiovitor/Documentos/LeitorTemperatura/adc_console/host_test/CMakeFiles/edit_cache.dir
+/home/caiovitor/Documentos/LeitorTemperatura/adc_console/host_test/CMakeFiles/rebuild_cache.dir
